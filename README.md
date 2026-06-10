@@ -1,0 +1,1 @@
+# Globe Trek Next.js Travel Website
