@@ -10,9 +10,9 @@ const values = [
 
 const team = [
   { name: 'Wycliffe', role: 'Executive Director', bio: 'With 15 years in humanitarian work across East Africa, Amara drives GlobeTrek\'s strategic vision and partnerships.' },
-  { name: 'Charity Ngunjiri', role: 'Head of Programs', bio: 'Lucia designs and oversees all community programmes, ensuring they are evidence-based and community-led.' },
+  { name: 'Charity Ngunjiri', role: 'Head of Programs', bio: 'Charity designs and oversees all community programmes, ensuring they are evidence-based and community-led.' },
   { name: 'David', role: 'Community Outreach Lead', bio: 'David builds trust on the ground, coordinating volunteers and ensuring services reach the most vulnerable.' },
-  { name: 'Rozary', role: 'Finance & Operations', bio: 'Priya ensures every donation is tracked, reported transparently, and deployed where it creates maximum impact.' },
+  { name: 'Rozary', role: 'Finance & Operations', bio: 'Rozary ensures every donation is tracked, reported transparently, and deployed where it creates maximum impact.' },
 ];
 
 export default function AboutPage() {

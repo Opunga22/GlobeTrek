@@ -1,8 +1,8 @@
 
 import './globals.css';
 export const metadata = {
-  title: 'Globe Trek | Explore the World',
-  description: 'Discover hidden gems and experience the world with Globe Trek.',
+  title: 'Globe Trek | Helping Communities, Empowering Lives',
+  description: 'Helping communities and empowering lives through sustainable development initiatives.',
   icons: {
     icon: '/assets/neew.jpeg',
   },
